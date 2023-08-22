@@ -1,0 +1,102 @@
+h1 {
+    width: 250px;
+    margin: 0px auto;
+}
+
+.odd{
+    box-sizing: border-box;
+    margin: -210px 350px;
+    padding: 10px;
+    border: 2px solid green;
+    width: 300px;
+    height: 200px;
+}
+
+.even{
+    box-sizing: border-box;
+    margin: -200px 150px 10px 700px;
+    padding: 10px;
+    border: 2px solid green;
+    width: 300px;
+    height: 440px;
+}
+
+.maqlooba{
+    margin-top: 40px;
+}
+
+.manakeesh{
+    margin-top: 10px;
+}
+
+.recipe-main-page{
+    text-align: center;
+}
+
+.image-odd {
+    height: auto;
+    width: 250px;
+}
+
+.image-even {
+    text-align: center;
+    height: auto;
+    width: 250px;
+}
+
+.page {
+    text-align: center;
+}
+
+.para,
+.ingredients,
+.steps {
+    width: 600px;
+    margin: 0 auto;
+}
+
+ul {
+    color: rgba(0, 0, 250, 0.5);
+    text-align: left;
+    width: 600px;
+    margin: 0 auto;
+}
+
+ol {
+    color: rgba(250, 0, 0, 0.5);
+    text-align: left;
+    width: 600px;
+    margin: 0 auto;
+}
+
+li {
+    font-family: Times New Roman, sans-serif;
+}
+
+h3 {
+    background-color: aquamarine;
+    box-sizing: border-box;
+    padding: 8px;
+    border: 2px;
+    margin: 0 auto;
+    width: 600px;
+}
+
+.steps {
+    background-color: lightcoral;
+    border: 2px;
+    margin: 0 auto;
+    width: 600px;
+}
+
+h4 {
+    background-color: plum;
+    border: 2px;
+    margin: 0 auto;
+    width: 600px;
+}
+
+img {
+    height: 500px;
+    width: auto
+}
